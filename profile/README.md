@@ -1,4 +1,10 @@
-## Hi there 👋
+## SOM : Story Of Me 📖
+
+### Introduction
+Blog Service
+
+[SOM_Frontend](https://github.com/LeeAndRyu/SOM_FE)  
+[SOM_Backend](https://github.com/LeeAndRyu/SOM_BE)  
 
 <!--
 
