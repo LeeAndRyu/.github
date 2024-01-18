@@ -3,6 +3,13 @@
 ### Introduction
 Blog Service
 
+### Profile
+- 프로젝트 명 : SOM : Story Of Me
+- 개발 기간 : 2024.01.22 ~
+- 개발 인원 : FE 1명([oluzr](https://github.com/oluzr)), BE 1명([HSRyuuu](https://github.com/HSRyuuu))
+- 주요 기능 : Blog
+
+
 [SOM_Frontend](https://github.com/LeeAndRyu/SOM_FE)  
 [SOM_Backend](https://github.com/LeeAndRyu/SOM_BE)  
 
