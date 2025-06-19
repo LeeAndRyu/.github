@@ -13,4 +13,4 @@ Dev Friends from zerobase
 - [SOM_Backend Repository](https://github.com/LeeAndRyu/SOM_BE)  
 
 ### EVENTUS
-- 
+- 주요 기능: event 서비스
